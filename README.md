@@ -74,5 +74,5 @@ Nest is [MIT licensed](LICENSE).
 # chefMate
 My Details
 Chukwuyem Blessing
-Software development(frontend development.)
+Software development(frontend dev.)
 cohort 1.4
